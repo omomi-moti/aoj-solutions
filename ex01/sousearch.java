@@ -12,6 +12,7 @@ public class sousearch {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 
     
